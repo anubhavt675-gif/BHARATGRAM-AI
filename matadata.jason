@@ -1,0 +1,9 @@
+
+{
+  "name": "Bharatgram",
+  "description": "A premium, India-centric social media platform inspired by the tricolor aesthetic. Features include high-fidelity feeds, 'Bharat Reels', AI-powered 'Desi Captions' using Gemini, and a mobile-first responsive design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
